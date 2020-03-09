@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Cogne homicide",
+        "latitude": 45.60985,
+        "longitude": 7.35245,
+        "date": "2002-01-30",
+        "link": "https://en.wikipedia.org/wiki/Cogne_homicide"
+    },
+    {
+        "title": "Omicidio di Marco Biagi",
+        "latitude": 44.49712,
+        "longitude": 11.34448,
+        "date": "2002-03-19",
+        "link": "https://it.wikipedia.org/wiki/Omicidio_di_Marco_Biagi"
+    },
+    {
+        "title": "Strage di Erba",
+        "latitude": 45.808347,
+        "longitude": 9.2245913,
+        "date": "2006-12-11",
+        "link": "https://it.wikipedia.org/wiki/Strage_di_Erba"
+    }
+]
