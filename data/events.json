@@ -19,5 +19,12 @@
         "longitude": 9.2245913,
         "date": "2006-12-11",
         "link": "https://it.wikipedia.org/wiki/Strage_di_Erba"
+    },
+    {
+        "title": "Delitto di Avetrana",
+        "latitude": 40.353889,
+        "longitude": 17.735833,
+        "date": "2010-08-26",
+        "link": "https://it.wikipedia.org/wiki/Delitto_di_Avetrana"
     }
 ]
