@@ -1,5 +1,26 @@
 [
     {
+        "title": "Bath School disaster",
+        "latitude": 42.816667,
+        "longitude": -84.449167,
+        "date": "1927-05-18",
+        "link": "https://en.wikipedia.org/wiki/Bath_School_disaster"
+    },
+    {
+        "title": "Murder of Maria Laura Mainetti",
+        "latitude": 46.329686,
+        "longitude": 9.3716298,
+        "date": "2000-06-06",
+        "link": "https://en.wikipedia.org/wiki/Murder_of_Maria_Laura_Mainetti"
+    },
+    {
+        "title": "Novi Ligure murder",
+        "latitude": 44.7654413,
+        "longitude": 8.8027819,
+        "date": "2001-02-21",
+        "link": "https://en.wikipedia.org/wiki/Novi_Ligure_murder"
+    },
+    {
         "title": "Cogne homicide",
         "latitude": 45.60985,
         "longitude": 7.35245,
@@ -14,10 +35,31 @@
         "link": "https://it.wikipedia.org/wiki/Omicidio_di_Marco_Biagi"
     },
     {
+        "title": "Erfurt school massacre",
+        "latitude": 50.981389,
+        "longitude": 11.014722,
+        "date": "2002-04-26",
+        "link": "https://en.wikipedia.org/wiki/Erfurt_school_massacre"
+    },
+    {
         "title": "Strage di Erba",
         "latitude": 45.808347,
         "longitude": 9.2245913,
         "date": "2006-12-11",
         "link": "https://it.wikipedia.org/wiki/Strage_di_Erba"
+    },
+    {
+        "title": "Murder of Meredith Kercher",
+        "latitude": 43.114722,
+        "longitude": 12.391556,
+        "date": "2007-11-01",
+        "link": "https://en.wikipedia.org/wiki/Murder_of_Meredith_Kercher"
+    },
+    {
+        "title": "Murder of Pamela Mastropietro",
+        "latitude": 43.30025,
+        "longitude": 13.453303,
+        "date": "2018-01-30",
+        "link": "https://en.wikipedia.org/wiki/Murder_of_Pamela_Mastropietro"
     }
 ]
