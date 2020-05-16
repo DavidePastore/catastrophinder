@@ -1,0 +1,26 @@
+{
+  "name": "catastrophinder",
+  "version": "0.1.0",
+  "description": "Find all the catastrophes around the world",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidePastore/catastrophinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidePastore/catastrophinder/issues"
+  },
+  "homepage": "https://github.com/DavidePastore/catastrophinder#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
