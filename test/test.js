@@ -1,7 +1,8 @@
 var fs = require('fs')
 var chai = require('chai')
-var describe = chai.describe
-var it = chai.it
+var mocha = require('mocha')
+var describe = mocha.describe
+var it = mocha.it
 var assert = chai.assert // Using Assert style
 
 const FILE_PATH = 'data/events.json'
