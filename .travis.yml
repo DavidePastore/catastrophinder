@@ -5,3 +5,8 @@ node_js:
   - 11
   - 12
   - 13
+before_script:
+  - npm install
+  - npm run standard-check
+script:
+  - npm test
