@@ -82,5 +82,12 @@
         "longitude": 13.453303,
         "date": "2018-01-30",
         "link": "https://en.wikipedia.org/wiki/Murder_of_Pamela_Mastropietro"
+    },
+    {
+        "title": "Murder of Daniele De Santis and Eleonora Manta",
+        "latitude": 40.348865,
+        "longitude": 18.1629224,
+        "date": "2020-09-21",
+        "link": "https://www.ilfattoquotidiano.it/2020/09/30/i-passi-falsi-di-antonio-de-marco-bigliettini-mascherina-e-telecamere-cosi-il-presunto-killer-di-de-santis-e-manta-e-stato-incastrato/5948201/"
     }
 ]
