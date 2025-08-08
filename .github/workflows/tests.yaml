@@ -21,6 +21,9 @@ jobs:
     - name: Install dependencies
       run: npm install
 
+    - name: Standard check
+      run: npm run standard-check
+
     - name: Run tests
       run: npm test
       env:
