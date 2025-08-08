@@ -22,7 +22,7 @@ jobs:
       run: npm install
 
     - name: Standard check
-      run: npm standard-check
+      run: npm run standard-check
 
     - name: Run tests
       run: npm test
